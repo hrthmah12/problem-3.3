@@ -1,0 +1,272 @@
+.notes {
+  background-color: #1c2554;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.notes .div {
+  background-color: #1c2554;
+  width: 1728px;
+  height: 2435px;
+  position: relative;
+}
+
+.notes .group {
+  position: absolute;
+  width: 1498px;
+  height: 497px;
+  top: 1081px;
+  left: 120px;
+}
+
+.notes .rectangle {
+  width: 1496px;
+  height: 401px;
+  top: 96px;
+  background-color: #d9d9d9;
+  border-radius: 38px;
+  position: absolute;
+  left: 0;
+}
+
+.notes .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.notes .overlap {
+  position: absolute;
+  width: 1728px;
+  height: 120px;
+  top: 0;
+  left: 0;
+}
+
+.notes .text-wrapper-2 {
+  top: 40px;
+  left: 1679px;
+  font-size: 18px;
+  letter-spacing: 0.36px;
+  position: absolute;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.notes .frame {
+  position: absolute;
+  width: 1728px;
+  height: 120px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.notes .text-wrapper-3 {
+  position: absolute;
+  width: 65px;
+  top: 49px;
+  left: 1383px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.notes .text-wrapper-4 {
+  position: absolute;
+  width: 289px;
+  top: 32px;
+  left: 120px;
+  font-family: "Inknut Antiqua-Regular", Helvetica;
+  font-weight: 400;
+  color: #090909;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.notes .ellipse {
+  position: absolute;
+  width: 72px;
+  height: 75px;
+  top: 23px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.notes .text-wrapper-5 {
+  left: 1565px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0.48px;
+  position: absolute;
+  top: 50px;
+  color: #000000;
+  font-size: 24px;
+  line-height: normal;
+}
+
+.notes .text-wrapper-6 {
+  top: 58px;
+  left: 1665px;
+  font-size: 18px;
+  letter-spacing: 0.36px;
+  position: absolute;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.notes .text-wrapper-7 {
+  width: 74px;
+  left: 1261px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  position: absolute;
+  top: 50px;
+  color: #000000;
+  font-size: 24px;
+  line-height: normal;
+}
+
+.notes .image {
+  position: absolute;
+  width: 71px;
+  height: 73px;
+  top: 28px;
+  left: 1485px;
+}
+
+.notes .overlap-group {
+  position: absolute;
+  width: 894px;
+  height: 126px;
+  top: 216px;
+  left: 0;
+}
+
+.notes .img {
+  width: 401px;
+  height: 126px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.notes .text-wrapper-8 {
+  position: absolute;
+  width: 846px;
+  top: 6px;
+  left: 48px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.notes .group-2 {
+  position: absolute;
+  width: 1498px;
+  height: 196px;
+  top: 465px;
+  left: 120px;
+}
+
+.notes .rectangle-2 {
+  width: 1496px;
+  position: absolute;
+  height: 100px;
+  top: 96px;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 38px;
+}
+
+.notes .overlap-2 {
+  position: absolute;
+  width: 570px;
+  height: 196px;
+  top: 773px;
+  left: 120px;
+}
+
+.notes .group-3 {
+  position: absolute;
+  width: 570px;
+  height: 196px;
+  top: 0;
+  left: 0;
+}
+
+.notes .rectangle-3 {
+  width: 568px;
+  position: absolute;
+  height: 100px;
+  top: 96px;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 38px;
+}
+
+.notes .text-wrapper-9 {
+  width: 41px;
+  top: 118px;
+  left: 491px;
+  transform: rotate(90deg);
+  font-size: 64px;
+  letter-spacing: 0;
+  position: absolute;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.notes .overlap-group-wrapper {
+  position: absolute;
+  width: 302px;
+  height: 106px;
+  top: 1784px;
+  left: 1316px;
+}
+
+.notes .div-wrapper {
+  position: relative;
+  width: 300px;
+  height: 106px;
+  background-color: #0ba908;
+  border-radius: 38px;
+}
+
+.notes .text-wrapper-10 {
+  position: absolute;
+  width: 189px;
+  top: 26px;
+  left: 55px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+}

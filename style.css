@@ -1,0 +1,508 @@
+.schedule {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.schedule .group-wrapper {
+  width: 1728px;
+  height: 3460px;
+}
+
+.schedule .group {
+  height: 3460px;
+}
+
+.schedule .frame {
+  position: relative;
+  width: 1728px;
+  height: 3460px;
+  background-color: #1c2554;
+}
+
+.schedule .div {
+  position: absolute;
+  width: 1728px;
+  height: 120px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.schedule .text-wrapper {
+  position: absolute;
+  width: 65px;
+  top: 49px;
+  left: 1383px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .text-wrapper-2 {
+  position: absolute;
+  width: 289px;
+  top: 32px;
+  left: 120px;
+  font-family: "Inknut Antiqua-Regular", Helvetica;
+  font-weight: 400;
+  color: #090909;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .ellipse {
+  position: absolute;
+  width: 72px;
+  height: 75px;
+  top: 23px;
+  left: 27px;
+  object-fit: cover;
+}
+
+.schedule .text-wrapper-3 {
+  left: 1565px;
+  font-family: "Poppins-SemiBold", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0.48px;
+  position: absolute;
+  top: 50px;
+  color: #000000;
+  font-size: 24px;
+  line-height: normal;
+}
+
+.schedule .text-wrapper-4 {
+  position: absolute;
+  top: 58px;
+  left: 1665px;
+  font-family: "Font Awesome 5 Free-Solid", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0.36px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.schedule .text-wrapper-5 {
+  width: 74px;
+  left: 1261px;
+  font-family: "Poppins-Regular", Helvetica;
+  font-weight: 400;
+  text-align: center;
+  letter-spacing: 0;
+  position: absolute;
+  top: 50px;
+  color: #000000;
+  font-size: 24px;
+  line-height: normal;
+}
+
+.schedule .image {
+  position: absolute;
+  width: 71px;
+  height: 73px;
+  top: 28px;
+  left: 1485px;
+}
+
+.schedule .overlap-group-wrapper {
+  position: absolute;
+  width: 1367px;
+  height: 139px;
+  top: 284px;
+  left: 182px;
+}
+
+.schedule .overlap-group {
+  position: relative;
+  width: 1365px;
+  height: 139px;
+  background-color: #d9d9d9;
+  border-radius: 20px;
+}
+
+.schedule .text-wrapper-6 {
+  position: absolute;
+  top: 19px;
+  left: 47px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 90px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .group-2 {
+  position: absolute;
+  width: 406px;
+  height: 80px;
+  top: 35px;
+  left: 893px;
+}
+
+.schedule .text-wrapper-7 {
+  position: absolute;
+  top: 0;
+  left: 55px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .polygon {
+  left: 0;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 25px;
+}
+
+.schedule .img {
+  left: 374px;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 25px;
+}
+
+.schedule .overlap {
+  position: absolute;
+  width: 1617px;
+  height: 1301px;
+  top: 587px;
+  left: 63px;
+}
+
+.schedule .group-3 {
+  position: absolute;
+  width: 1617px;
+  height: 1301px;
+  top: 0;
+  left: 0;
+}
+
+.schedule .overlap-2 {
+  position: absolute;
+  width: 1601px;
+  height: 721px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/image-56.png);
+  background-size: 100% 100%;
+}
+
+.schedule .MONDAY-PHYSICS-wrapper {
+  position: absolute;
+  width: 163px;
+  height: 78px;
+  top: 4px;
+  left: 215px;
+  background-image: url(./img/rectangle-46.svg);
+  background-size: 100% 100%;
+}
+
+.schedule .MONDAY-PHYSICS {
+  width: 89px;
+  top: 12px;
+  left: 37px;
+  position: absolute;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .span {
+  color: #ffffff;
+}
+
+.schedule .text-wrapper-8 {
+  color: #000000;
+}
+
+.schedule .MONDAY-MATHS-wrapper {
+  position: absolute;
+  width: 163px;
+  height: 100px;
+  top: 442px;
+  left: 215px;
+  background-image: url(./img/rectangle-378.svg);
+  background-size: 100% 100%;
+}
+
+.schedule .MONDAY-MATHS {
+  width: 85px;
+  top: 23px;
+  left: 40px;
+  position: absolute;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .TUESDAY-ADDITIONAL-wrapper {
+  position: absolute;
+  width: 179px;
+  height: 101px;
+  top: 211px;
+  left: 395px;
+  background-image: url(./img/rectangle-379.svg);
+  background-size: 100% 100%;
+}
+
+.schedule .TUESDAY-ADDITIONAL {
+  position: absolute;
+  width: 146px;
+  top: 8px;
+  left: 17px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .TUESDAY-MATHS-wrapper {
+  position: absolute;
+  width: 179px;
+  height: 101px;
+  top: 326px;
+  left: 395px;
+  background-image: url(./img/rectangle-380.svg);
+  background-size: 100% 100%;
+}
+
+.schedule .TUESDAY-MATHS {
+  position: absolute;
+  width: 96px;
+  top: 32px;
+  left: 41px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .THURSDAY-PYHSICS-wrapper {
+  position: absolute;
+  width: 242px;
+  height: 101px;
+  top: 555px;
+  left: 779px;
+  background-color: #e6b5e4;
+  border-radius: 20px;
+}
+
+.schedule .THURSDAY-PYHSICS {
+  position: absolute;
+  width: 111px;
+  top: 32px;
+  left: 65px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .FRIDAY-MATHEMATICS-wrapper {
+  position: absolute;
+  width: 201px;
+  height: 78px;
+  top: 4px;
+  left: 1037px;
+  background-color: #e7b5e5;
+  border-radius: 20px;
+}
+
+.schedule .FRIDAY-MATHEMATICS {
+  width: 146px;
+  top: 11px;
+  left: 28px;
+  position: absolute;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .THURSDAY-ADDITIONAL-wrapper {
+  position: absolute;
+  width: 242px;
+  height: 101px;
+  top: 211px;
+  left: 781px;
+  background-color: #e7b5e5;
+  border-radius: 20px;
+}
+
+.schedule .THURSDAY-ADDITIONAL {
+  position: absolute;
+  width: 146px;
+  top: 10px;
+  left: 46px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .FRIDAY-MATHS-wrapper {
+  position: absolute;
+  width: 201px;
+  height: 101px;
+  top: 211px;
+  left: 1037px;
+  background-image: url(./img/rectangle-377.svg);
+  background-size: 100% 100%;
+}
+
+.schedule .FRIDAY-MATHS {
+  width: 73px;
+  top: 24px;
+  left: 65px;
+  position: absolute;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .div-wrapper {
+  position: absolute;
+  width: 112px;
+  height: 112px;
+  top: 1189px;
+  left: 138px;
+}
+
+.schedule .overlap-group-2 {
+  position: relative;
+  height: 112px;
+}
+
+.schedule .ellipse-2 {
+  position: absolute;
+  width: 94px;
+  height: 93px;
+  top: 9px;
+  left: 9px;
+}
+
+.schedule .image-2 {
+  position: absolute;
+  width: 112px;
+  height: 112px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.schedule .text-wrapper-9 {
+  position: absolute;
+  top: 1046px;
+  left: 318px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .text-wrapper-10 {
+  position: absolute;
+  top: 1203px;
+  left: 318px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .overlap-wrapper {
+  position: absolute;
+  width: 112px;
+  height: 112px;
+  top: 1031px;
+  left: 138px;
+}
+
+.schedule .text-wrapper-11 {
+  position: absolute;
+  top: 1972px;
+  left: 381px;
+  font-family: "Jua-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.schedule .group-4 {
+  position: absolute;
+  width: 103px;
+  height: 103px;
+  top: 1959px;
+  left: 210px;
+}
+
+.schedule .overlap-3 {
+  position: relative;
+  height: 103px;
+}
+
+.schedule .rectangle {
+  position: absolute;
+  width: 83px;
+  height: 80px;
+  top: 14px;
+  left: 10px;
+  background-color: #d9d9d9;
+  border-radius: 15px;
+}
+
+.schedule .image-3 {
+  position: absolute;
+  width: 103px;
+  height: 103px;
+  top: 0;
+}
